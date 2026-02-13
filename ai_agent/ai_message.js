@@ -10,7 +10,7 @@ const BASE_URL = "http://127.0.0.1:8045/v1";
 const API_KEY = "sk-f9e9a93c217043b58f5798f4928e097f";
 
 /** @type {string} 使用的模型名称 */
-const MODEL = "gemini-3-flash";
+const MODEL = "claude-opus-4-5-thinking";
 
 /**
  * 向 AI API 发送问题并获取回复
